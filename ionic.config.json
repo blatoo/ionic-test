@@ -1,0 +1,7 @@
+{
+  "name": "Play Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
